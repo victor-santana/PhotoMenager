@@ -30,6 +30,8 @@ O ecossistema da aplicação é dividido em um **Backend robusto** e um **Fronte
 * **📂 Gestão de Álbuns**: Criação e edição de álbuns com títulos e descrições. 
 * **📏 Regras de Negócio**: Segurança na exclusão — um álbum só pode ser apagado se estiver vazio.
 * **🖼️ Galeria Versátil**: Alternância entre visualização em **Tabela** ou **Miniaturas**.
+* **🔢 Paginação Inteligente**: Carregamento otimizado de 8 álbuns por página e 4 fotos por álbum para maior performance.
+* **📤 Upload Moderno**: Integração com o widget oficial do Cloudinary para captura via câmera ou arquivos locais.
 
 ## Imagens
 
@@ -52,11 +54,3 @@ Novo Álbum
 Adicionar Fotos:
 <img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/cf7c3ce5-f735-4069-8eaa-c34aa0464493" />
 
-
-
-
-
-
-
-* **🔢 Paginação Inteligente**: Carregamento otimizado de 8 álbuns por página e 4 fotos por álbum para maior performance.
-* **📤 Upload Moderno**: Integração com o widget oficial do Cloudinary para captura via câmera ou arquivos locais.

@@ -1,0 +1,15 @@
+body {
+  background-image: url('./assets/Foto_fundo.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: sans-serif;
+}
+
+#root {
+  width: 100%;
+}

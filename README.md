@@ -2,7 +2,7 @@
 
 Este projeto é uma plataforma completa de gerenciamento de álbuns de fotos, projetada para oferecer uma experiência de usuário fluida e responsiva. O foco principal é a organização de memórias de forma intuitiva, permitindo que o usuário tenha controle total sobre suas coleções de imagens.
 
-O ecossistema da aplicação é dividido em um **Backend robusto** e um **Frontend dinâmico**, utilizando as tecnologias mais modernas do mercado.
+O ecossistema da aplicação é dividido em um **Backend robusto** e um **Frontend dinâmico**.
 
 ---
 
@@ -10,7 +10,7 @@ O ecossistema da aplicação é dividido em um **Backend robusto** e um **Fronte
 
 ### **Backend (Coração da Aplicação)**
 * **Node.js & Express**: API RESTful desenvolvida com arquitetura modular para facilitar a manutenção.
-* **MongoDB**: Banco de Dados NoSQL utilizado para armazenar usuários, álbuns e metadados das fotos.
+* **MongoDB**: Banco de Dados
 * **Mongoose**: Modelagem de dados e comunicação eficiente com o banco.
 * **Bcrypt**: Criptografia de ponta para garantir a segurança das senhas dos usuários.
 
